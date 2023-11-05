@@ -1,7 +1,4 @@
-![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
-
-Maker Media GmbH
-*** 
+fork of https://github.com/MakeMagazinDE/Obegraensad
 
 # IKEA-Matrix gehackt
 
@@ -11,4 +8,4 @@ Ergänzend zum Artikel aus der Make 6/23 findest du hier den benötigten Arduino
 
 ![Picture](https://github.com/MakeMagazinDE/Obegraensad/blob/main/obegraensad_github.png)
 
-Den Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 6/23](https://www.heise.de/select/make/2023/6)** zu lesen.
+Den Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 6/23](https://www.heise.de/select/make/2023/6)
